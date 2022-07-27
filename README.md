@@ -1,2 +1,2 @@
 # test_repository
-Test description
+Test edition
